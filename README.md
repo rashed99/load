@@ -1,4 +1,4 @@
-# Dmoney Project
+# Dmoney
 
 ## Project Overview
 This is a REST API testing project for the Dmoney application using Postman and Newman.
